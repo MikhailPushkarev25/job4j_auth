@@ -1,0 +1,2 @@
+[![Build Status](https://app.travis-ci.com/MikhailPushkarev25/job4j_auth.svg?branch=master)](https://app.travis-ci.com/MikhailPushkarev25/job4j_auth)
+[![codecov](https://codecov.io/gh/MikhailPushkarev25/job4j_auth/branch/master/graph/badge.svg?token=EtgPfRisjx)](https://codecov.io/gh/MikhailPushkarev25/job4j_auth)
